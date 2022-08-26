@@ -4,6 +4,5 @@
   
 주 활동 지역 : [네이버 블로그](https://blog.naver.com/tvasuper)
 ## To-do
-### MCSV CMD Starthelper
-🚇 없는 파일이 뭔지 알려주게 하기  
-🚇 허락을 받으면 자동으로 문제 해결하게 하기
+### MCSV CMD off Autostart
+🚇 켜자마자 설정 파일 수정
