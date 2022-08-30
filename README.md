@@ -4,5 +4,6 @@
   
 주 활동 지역 : [네이버 블로그](https://blog.naver.com/tvasuper)
 ## To-do
-### MCSV CMD off Autostart
-🚇 켜자마자 설정 파일 수정
+### MCSV CMD 1.5
+🚇 서버를 태초로 열때 서버파일 이름 정하기  
+🚇 1.3 업데이트 복귀
