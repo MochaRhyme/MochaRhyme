@@ -5,4 +5,4 @@
   
 주 활동 지역 : [네이버 블로그](https://blog.naver.com/tvasuper)
 ## To-do
-🎪GIRAFFE : 릴리즈를 목표로
+🎪[GIRAFFE](https://github.com/tvasuper/minemake/tree/main/MCSV%20Giraffe) : 릴리즈를 목표로
