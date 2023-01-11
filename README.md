@@ -1,5 +1,5 @@
 # Nojam is my life!
-2023 Chapter 0를 사는 06년생 개띠입니다.  
+2023 Chapter 0을 사는 06년생 개띠입니다.  
 bat 장난질이나 다른 게임의 스킨을 올리는 계정입니다~  
 # My 0.5 lifes
 [네이버 블로그](https://blog.naver.com/tvasuper)  
