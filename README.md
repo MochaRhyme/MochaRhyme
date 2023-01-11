@@ -1,8 +1,11 @@
 # Nojam is my life!
-"개"발자를 꿈꾸는 17세 개띠입니다.  
-  
-이태원 사고 사망자를 진심으로 애도합니다.  
-  
-주 활동 지역 : [네이버 블로그](https://blog.naver.com/tvasuper)
-## To-do
-🎪[GIRAFFE](https://github.com/tvasuper/minemake/tree/main/MCSV%20Giraffe) : SetupGiraffe 고치기
+2023 Chapter 0를 사는 06년생 개띠입니다.  
+bat 장난질이나 다른 게임의 스킨을 올리는 계정입니다~  
+# My 0.5 lifes
+[네이버 블로그](https://blog.naver.com/tvasuper)  
+[TISTORY(부 파티션)](https://5t0ryblog.tistory.com/)  
+[YouTube(거의 죽은 상태임)](https://www.youtube.com/@5t0ry)
+
+# ★ Minemake Website ★
+마인메이크를 웹사이트로 만들었어여  
+[여기](https://sites.google.com/view/minemake)를 눌러 방문해주세요!!
