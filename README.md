@@ -1,4 +1,4 @@
-## MochaRhyme이라 쓰고 "모카라임"이라고 말한다
+## Ruto-MochaRhyme입니다.
 ### Introducing
 대학생이자 개발자 지망생이자 이상한 거 맨날 하고 있는 모카라임입니다.
 ### My Stats
