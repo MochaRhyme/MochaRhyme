@@ -1,6 +1,6 @@
 ## Ruto-MochaRhyme입니다.
 ### Introducing
-대학생이자 개발자 지망생이자 이상한 거 맨날 하고 있는 루토-모카라임입니다.
+"루토-모카라임"입니다.
 ### My Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=runatory)](https://solved.ac/runatory)
 ![MochaRhyme's GitHub stats](https://github-readme-stats.vercel.app/api?username=MochaRhyme&show_icons=true&theme=radical)
