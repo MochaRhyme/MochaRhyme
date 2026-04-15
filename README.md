@@ -3,4 +3,4 @@
 ### Introducing
 "루토-모카라임"입니다.  
 ### My Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=runatory)](https://solved.ac/runatory)
+![백준에서의 기록(solved.ac)](solved_ac.svg)
